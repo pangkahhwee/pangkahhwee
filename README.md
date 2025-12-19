@@ -1,9 +1,9 @@
-- 🔭 I’m currently working on Curating a GitHub portfolio that highlights my data science work.
+- 🔭 I’m currently working on Curating a GitHub portfolio that highlights my Data Science and Cybersecurity work.
 - 🌱 I’m currently learning Core concepts in Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.
 - 👯 I’m looking to collaborate on any of the presented data-science projects or open to other projects.
 - 🤔 I’m looking for help with Web-based front-end solutions for showcasing data science insights and results.
 - 💬 Ask me about Anything related to data science, feel free to reach out and I love chatting about it!
-- 📫 How to reach me:  email me or connect on LinkedIn
+- 📫 How to reach me: email me or connect on LinkedIn
 - ⚡ Fun fact: I love jogging when I am not doing coding
 
 ## 🌐 Socials:
