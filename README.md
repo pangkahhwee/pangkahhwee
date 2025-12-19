@@ -1,19 +1,10 @@
-## Hi there 👋
-
-
-**pangkahhwee/pangkahhwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on Curating a GitHub portfolio that highlights my data science work.
+- 🌱 I’m currently learning Core concepts in Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.
+- 👯 I’m looking to collaborate on any of the presented data-science projects or open to other projects.
+- 🤔 I’m looking for help with Web-based front-end solutions for showcasing data science insights and results.
+- 💬 Ask me about Anything related to data science, feel free to reach out and I love chatting about it!
+- 📫 How to reach me:  email me or connect on LinkedIn
+- ⚡ Fun fact: I love jogging when I am not doing coding
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pang-kah-hwee-3369ba386) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pangkahhwee@gmail.com) 
