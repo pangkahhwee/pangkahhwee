@@ -1,3 +1,5 @@
+## Hi! I am Kah Hwee🚀
+
 - 🔭 I’m currently working on Curating a GitHub portfolio that highlights my Data Science and Cybersecurity work.
 - 🌱 I’m currently learning Core concepts in Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.
 - 👯 I’m looking to collaborate on any of the presented data-science projects or open to other projects.
