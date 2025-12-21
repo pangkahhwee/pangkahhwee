@@ -1,12 +1,12 @@
 ## Hi! I am Kah Hwee🚀
 
-- 🔭 I’m currently working on Curating a GitHub portfolio that highlights my Data Science and Cybersecurity work.
-- 🌱 I’m currently learning Core concepts in Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.
-- 👯 I’m looking to collaborate on any of the presented data-science projects or open to other projects.
-- 🤔 I’m looking for help with Web-based front-end solutions for showcasing data science insights and results.
-- 💬 Ask me about Anything related to data science, feel free to reach out and I love chatting about it!
-- 📫 How to reach me: email me or connect on LinkedIn
-- ⚡ Fun fact: I love jogging when I am not doing coding
+- 🔭 I’m currently working on Curating a GitHub portfolio that highlights my Data Science and Cybersecurity works.<br/>
+- 🌱 I’m currently learning Core concepts in Cybersecurity, Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.<br/>
+- 👯 I’m looking to collaborate on any of the presented Cybersecurity, Data-Science projects or open to other projects.<br/>
+- 🤔 I’m looking for help with Web-based front-end solutions for showcasing my Cybdersecurity, Data Science insights and results.<br/>
+- 💬 Ask me about Anything related to data science, feel free to reach out and I love chatting about it!<br/>
+- 📫 How to reach me: email me or connect on LinkedIn<br/>
+- ⚡ Fun fact: I love jogging when I am not doing coding<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pang-kah-hwee-3369ba386) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pangkahhwee@gmail.com) 
@@ -16,7 +16,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pangkahhwee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pangkahhwee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pangkahhwee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pangkahhwee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
