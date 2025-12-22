@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Core concepts in Cybersecurity, Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.<br/>
 - 👯 I’m looking to collaborate on any of the presented Cybersecurity, Data-Science projects or open to other projects.<br/>
 - 🤔 I’m looking for help with Web-based front-end solutions for showcasing my Cybdersecurity, Data Science insights and results.<br/>
-- 💬 Ask me about Anything related to data science, feel free to reach out and I love chatting about it!<br/>
-- 📫 How to reach me: email me or connect on LinkedIn<br/>
 - ⚡ Fun fact: I love jogging when I am not doing coding<br/>
 
 ## 🌐 Socials:
