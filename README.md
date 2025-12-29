@@ -1,5 +1,7 @@
 ## Hi! I am Kah Hwee🚀
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=20&duration=7000&pause=1000&width=435&lines=Interested+in+research+and+development;Loves+working+on+Data+and+Cybersecurity+usecases)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on Curating a GitHub portfolio that highlights my Data Science and Cybersecurity works.<br/>
 - 🌱 I’m currently learning Core concepts in Cybersecurity, Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.<br/>
 - 👯 I’m looking to collaborate on any of the presented Cybersecurity, Data-Science projects or open to other projects.<br/>
